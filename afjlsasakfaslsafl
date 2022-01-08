@@ -1,0 +1,54 @@
+[33mcommit 0177b3867ee3e6247c7c9c7cd1f75aa9b273ffbc[m[33m ([m[1;36mHEAD -> [m[1;32mfeature[m[33m)[m
+Author: haris <hrsweb23@gmail.com>
+Date:   Sat Jan 8 16:51:58 2022 +0300
+
+    next file modified
+
+[33mcommit 7467140758ccfa30c17342bb93765893551cbeac[m[33m ([m[1;32mmaster[m[33m)[m
+Author: haris <hrsweb23@gmail.com>
+Date:   Sat Jan 8 16:50:36 2022 +0300
+
+    test file modi
+
+[33mcommit bb716ed404d7d70c625fbdfc6c676f664394730b[m[33m ([m[1;35mrefs/stash[m[33m)[m
+Merge: 3f09ec0 62cf5c9
+Author: haris <hrsweb23@gmail.com>
+Date:   Sat Jan 8 16:47:17 2022 +0300
+
+    WIP on master: 3f09ec0 next file updated
+
+[33mcommit 62cf5c99455c16d7fa99e5e72b5beb34518e5239[m
+Author: haris <hrsweb23@gmail.com>
+Date:   Sat Jan 8 16:47:17 2022 +0300
+
+    index on master: 3f09ec0 next file updated
+
+[33mcommit 3f09ec0592d80e1bc7255d1661bcb93cfbb25688[m
+Author: haris <hrsweb23@gmail.com>
+Date:   Sat Jan 8 16:33:31 2022 +0300
+
+    next file updated
+
+[33mcommit d103063cba69d172dc6fdd2ed17d747f85815cde[m
+Author: haris <hrsweb23@gmail.com>
+Date:   Sat Jan 8 16:28:46 2022 +0300
+
+    fourth
+
+[33mcommit c1eab8fb31afa20ea667e587231563befa396d1a[m
+Author: haris <hrsweb23@gmail.com>
+Date:   Sat Jan 8 16:05:16 2022 +0300
+
+    third
+
+[33mcommit 1baad6c8b30924f478336f210889b4a3f92d280a[m
+Author: haris <hrsweb23@gmail.com>
+Date:   Sat Jan 8 16:03:00 2022 +0300
+
+    second
+
+[33mcommit ea76ab452a0b94fc55b3dc5aea720f031397f969[m
+Author: haris <hrsweb23@gmail.com>
+Date:   Sat Jan 8 16:02:01 2022 +0300
+
+    initial commit
